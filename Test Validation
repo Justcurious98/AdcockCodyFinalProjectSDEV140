@@ -22,4 +22,4 @@ Test Data.
 The testing process revealed that the program works as intended for valid input data. It correctly records expenses and displays a success message. The input validation feature also works correctly, as it identifies when required fields are left empty or when the `amount` field does not contain a valid number. No fixes were required for these features.
 
    However, I encountered an issue with displaying a second image when the "Track Expenses" button was clicked. With several attempts to fix this, I was unable to resolve the issue. The code was left without the second image.
-![alt text]("C:\Users\cadco\OneDrive\Pictures\Screenshots\TestAttempt1.png")
+
