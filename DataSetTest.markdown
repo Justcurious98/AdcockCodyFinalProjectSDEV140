@@ -54,19 +54,14 @@ However, I encountered an issue with displaying a second image when the
 this, I was unable to resolve the issue. The code was left without the
 second image.
 
-![A screenshot of a computer Description automatically
-generated](vertopal_3838d050ae7f4eea9913833b7cc54bea/media/image1.png){width="6.5in"
-height="3.859722222222222in"}
+![alt text](TestAttempt1.png)
 
-![A screenshot of a computer Description automatically
-generated](vertopal_3838d050ae7f4eea9913833b7cc54bea/media/image2.png){width="6.5in"
-height="3.859722222222222in"}![A screenshot of a computer Description
-automatically
-generated](vertopal_3838d050ae7f4eea9913833b7cc54bea/media/image3.png){width="6.5in"
-height="3.859722222222222in"}![A screenshot of a computer Description
-automatically
-generated](vertopal_3838d050ae7f4eea9913833b7cc54bea/media/image4.png){width="6.5in"
-height="3.859722222222222in"}![A screenshot of a computer Description
-automatically
-generated](vertopal_3838d050ae7f4eea9913833b7cc54bea/media/image5.png){width="6.5in"
-height="3.859722222222222in"}
+
+![alt text](https://github.com/yourusername/your-repository/blob/main/TestAttempt2.png)
+
+![alt text](https://github.com/yourusername/your-repository/blob/main/TestAttempt3.png)
+
+![alt text](TestAttempt4.png)
+
+![alt text](TestAttempt5.png)
+
